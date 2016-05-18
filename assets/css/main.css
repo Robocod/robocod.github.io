@@ -30,6 +30,7 @@
 		list-style: none;
 	}
 
+
 	blockquote, q {
 		quotes: none;
 	}
@@ -2455,6 +2456,11 @@
 		}
 
 		.work-item p {
+			font-size: 0.8em;
+			line-height: 1.5em;
+			margin: 0;
+		}
+		.work-item ul li {
 			font-size: 0.8em;
 			line-height: 1.5em;
 			margin: 0;
